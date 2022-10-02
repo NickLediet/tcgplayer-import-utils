@@ -1,0 +1,23 @@
+{
+  "name": "tcgplayer-import-utils",
+  "version": "1.0.0",
+  "description": "A simple utility library for mapping and manipulating TCG Player export lists.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickLediet/tcgplayer-import-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickLediet/tcgplayer-import-utils/issues"
+  },
+  "homepage": "https://github.com/NickLediet/tcgplayer-import-utils#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
